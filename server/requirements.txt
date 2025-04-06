@@ -1,6 +1,6 @@
 flask
 Flask
-tensorflow==2.14.0
+tensorflow
 pandas
 numpy<2
 matplotlib
@@ -10,3 +10,6 @@ pytest-shutil
 opencv-python
 flask_cors
 pickle4
+google-generativeai
+python-dotenv
+gunicorn
